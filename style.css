@@ -1,0 +1,127 @@
+# web2
+body {
+    background-color: #FFFFFF;
+    margin: auto;
+}
+
+a {
+  color: #CD853F;
+}
+
+a:visited {
+  color: #CD853F;
+}
+
+a:active {
+  color: #eb6a91;
+}
+
+.start {
+  background-color: white;
+  margin-top: 20px;
+}
+
+.item {
+  height: 40px;
+  text-align: center;
+  font-size: 22px;;
+  line-height: 0;
+  background: #F4A460;
+  color: #695753;
+  margin-top: 5px;
+}
+
+.one {
+  text-align: center;
+  margin-left: -1cm;
+}
+
+.one a {
+  padding: 1em;
+  background: #68e7df;
+  border-right: 1px solid #b19891;
+  color: #695753;
+}
+
+.one a:hover {
+  background: #D2691E;
+}
+
+.one li {
+  display: inline;
+}
+
+.struct {
+  max-width:960px;
+  margin: 0 auto;
+  padding:10px;
+  color:#F4A460	;
+}
+
+#shapka {
+  background-color: #D2691E;
+  height: 180px;
+  color: #000000;
+  width: 100%;
+}
+
+#logo {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  margin-top: 40px;
+}
+
+#txt {
+  color: #000000;
+  position:absolute;
+  margin-left: 120px;
+  margin-top: 75px;
+  font-size: 28px;
+}
+
+
+
+table {
+    border: 1px solid grey;
+    text-align: center;
+    padding: 5px;
+    width: 400px;
+  }
+
+  th {
+    border: 1px solid grey;
+  }
+
+  td {
+    border: 1px solid grey;
+  }
+
+  .ta {
+    background-color: #cfba00;
+  }
+
+input {
+
+  margin-bottom: 10px;
+}
+
+
+.ifooter {
+  margin-top: 50px;
+  background: #D2691E;
+  height: 100px;
+  color: #F4A460;
+}
+
+.tab {
+  background-color: #D2691E;
+}
+
+#head3{
+  margin-top: 50px;
+}
+
+#forum {
+  text-align: center;
+}
