@@ -1,13 +1,15 @@
-# web2
+
 body {
-    background-color: #FFFFFF;
+    background-color: #FFDEAD;
     margin: auto;
 }
 
 a {
   color: #CD853F;
 }
-
+head1{
+	color :#D2691E;
+}
 a:visited {
   color: #CD853F;
 }
@@ -38,9 +40,9 @@ a:active {
 
 .one a {
   padding: 1em;
-  background: #68e7df;
+  background: #F4A460;
   border-right: 1px solid #b19891;
-  color: #695753;
+  color: #000000;
 }
 
 .one a:hover {
@@ -52,10 +54,10 @@ a:active {
 }
 
 .struct {
-  max-width:960px;
+  max-width:1500px;
   margin: 0 auto;
   padding:10px;
-  color:#F4A460	;
+  color:#D2691E	;
 }
 
 #shapka {
@@ -77,7 +79,7 @@ a:active {
   position:absolute;
   margin-left: 120px;
   margin-top: 75px;
-  font-size: 28px;
+  font-size: 35px;
 }
 
 
@@ -112,6 +114,18 @@ input {
   background: #D2691E;
   height: 100px;
   color: #F4A460;
+}
+
+.tab {
+  background-color: #D2691E;
+}
+
+#head3{
+  margin-top: 50px;
+}
+
+#forum {
+  text-align: center;
 }
 
 .tab {
